@@ -1,5 +1,5 @@
 ## Access the application deployed with kubernetes
-[137.116.247.42](http://http://137.116.247.42/)
+[137.116.247.42](137.116.247.42)
 
 # Getting Started with Create React App
 
