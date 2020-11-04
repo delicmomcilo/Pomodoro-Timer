@@ -1,3 +1,6 @@
+## Access the application deployed with kubernetes
+[http://http://137.116.247.42/](http://http://137.116.247.42/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
